@@ -1,0 +1,6 @@
+happy=joyful
+cold#hot
+big#small
+smart=clever
+sad=unhappy
+
